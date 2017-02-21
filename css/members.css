@@ -1,0 +1,18 @@
+.ProfilePicture{
+    height: 150px;
+    display: inline-block;
+    float: left;
+    margin:20px;
+    margin-top: 8px;
+    border: 2px solid rgba(68,68,68,.7);
+}
+.BioInfo{
+}
+.BioName{
+    font-size: 18px;
+}
+.Bio{
+    margin-top: 10px;
+    height: 175px;
+    padding: 10px;
+}
